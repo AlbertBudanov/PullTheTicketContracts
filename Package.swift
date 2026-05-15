@@ -11,7 +11,7 @@ let package = Package(
         .library(name: "PullTheTicketContracts", targets: ["PullTheTicketContracts"])
     ],
     dependencies: [
-        .package(path: "../PullTheTicketModels")
+        .package(url: "https://github.com/AlbertBudanov/PullTheTicketModels.git", branch: "main")
     ],
     targets: [
         .target(

@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pulltheticketmodels",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AlbertBudanov/PullTheTicketModels.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "fdd143dec0475e90f4b3fcfb5e2d22dbfd91e77a"
+      }
+    }
+  ],
+  "version" : 2
+}
